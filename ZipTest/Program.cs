@@ -3,16 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using ICSharpCode.SharpZipLib.BZip2;
-using ICSharpCode.SharpZipLib.Checksums;
-using ICSharpCode.SharpZipLib.Encryption;
-using ICSharpCode.SharpZipLib.GZip;
-using ICSharpCode.SharpZipLib.LZW;
-using ICSharpCode.SharpZipLib.Tar;
-
-using ICSharpCode.SharpZipLib.Core;
-using ICSharpCode.SharpZipLib.Zip;
-
 using System.IO;
 
 namespace ZipTest
